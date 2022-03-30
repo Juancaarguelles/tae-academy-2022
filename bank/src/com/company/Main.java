@@ -35,7 +35,7 @@ public class Main {
                     System.out.print("TYPE THE AMOUNT :: ");
                     float cash = input.nextFloat();
                     bankAccount.setAmount(cash);
-                    System.out.println("--YOU HAVE ADD "+cash+ "$ --");
+                    System.out.println("--YOU HAVE ADDED "+cash+ "$ --");
                     break;
                 case 2:
                     System.out.print("TYPE THE AMOUNT:: ");
