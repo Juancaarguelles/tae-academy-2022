@@ -13,10 +13,10 @@ public class Main
 
     public static void main(String[] args)
     {
-        executeRestaurant();
+        executeMenuController();
     }
 
-    public static void executeRestaurant()
+    public static void executeMenuController()
     {
         int option = 0;
         int index = 0;
